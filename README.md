@@ -1,2 +1,2 @@
 # SkibidiSigma
-https://skibidisigma.us.to
+http://skibidisigma.us.to
